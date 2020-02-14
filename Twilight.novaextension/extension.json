@@ -4,5 +4,6 @@
     "vendor": "Vitaliy Kuzmenko",
     "description": "Twilight Theme",
     "version": "1.0",
-    "categories": ["themes"]
+    "categories": ["themes"],
+    "bugs": "https://github.com/vitkuzmenko/nova-twilight/issues"
 }
