@@ -2,4 +2,4 @@
 
 A Twilight color theme for Nova
 
-![Twilight](Images/extension/demo.png)
+![Twilight](https://raw.github.com/vitkuzmenko/nova-twilight/master/demo.png)
