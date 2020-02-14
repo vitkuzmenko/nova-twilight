@@ -163,8 +163,10 @@ identifier.property {
     color: #8a95a7;
 }
 identifier.decorator,
-identifier.function,
 identifier.method {
+    color: #d9cc89;
+}
+identifier.function {
     color: white;
 }
 identifier.key {
