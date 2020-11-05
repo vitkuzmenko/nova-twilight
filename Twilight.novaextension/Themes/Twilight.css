@@ -111,6 +111,7 @@ meta.gutter.selected {
 
 keyword {
     color: #c8a770;
+    font-style: italic;
 }
 comment {
     color: #716d70;
@@ -162,9 +163,12 @@ identifier.global, identifier.variable {
 identifier.property {
     color: #8a95a7;
 }
-identifier.decorator,
 identifier.method {
     color: #d9cc89;
+}
+identifier.decorator {
+    color: #d9cc89;
+    font-style: italic;
 }
 identifier.function {
     color: white;
@@ -174,6 +178,7 @@ identifier.key {
 }
 identifier.argument {
     color: white;
+    font-style: italic;
 }
 
 /* Strings */
